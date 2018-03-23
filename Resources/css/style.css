@@ -150,7 +150,7 @@ footer img {
     width: 100%;
   }
 }
-@media only screen and (max-width: 615px) {
+@media only screen and (max-width: 620px) {
   #banner {
     background-position: 20%;
     height: 17rem;
@@ -213,6 +213,9 @@ footer img {
   .info h2 {
     width: 95%;
     text-align: center;
+  }
+  .info p {
+    width: 95%;
   }
   .info_heading {
     width: 100%;
