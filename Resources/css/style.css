@@ -150,7 +150,7 @@ footer img {
     width: 100%;
   }
 }
-@media only screen and (max-width: 470px) {
+@media only screen and (max-width: 615px) {
   #banner {
     background-position: 20%;
     height: 17rem;
